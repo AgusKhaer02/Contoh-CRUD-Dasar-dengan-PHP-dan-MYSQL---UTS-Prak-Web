@@ -13,14 +13,14 @@
         echo "
         <script>
             alert('Data berhasil dihapus');
-            window.location.href = '../index.php';
+            window.location.href = '../admin.php';
         </script>
         ";
     }else{
         echo "
         <script>
             alert('Data tidak berhasil dihapus, silahkan coba lagi');
-            window.location.href = '../index.php';
+            window.location.href = '../admin.php';
         </script>
         ";
     }

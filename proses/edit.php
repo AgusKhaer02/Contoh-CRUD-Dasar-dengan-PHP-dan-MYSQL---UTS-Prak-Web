@@ -31,7 +31,7 @@
         echo "
         <script>
             alert('Data berhasil diubah');
-            window.location.href = '../index.php';
+            window.location.href = '../admin.php';
         </script>
         ";
     }else{
